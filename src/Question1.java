@@ -1,7 +1,4 @@
 // Java program to count frequencies of elements
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.*;
 
 class Sol {
