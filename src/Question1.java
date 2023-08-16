@@ -1,4 +1,4 @@
-// Java program to count frequencies of elements
+
 import java.util.*;
 
 class Sol {
