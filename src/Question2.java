@@ -19,14 +19,14 @@ class Sol2 {
         List.add("a");
         List.add("c");
 
-        // display original ArrayList
+        // displaying the original ArrayList
         System.out.println("Original ArrayList is : "
                 + List);
 
         // converting the ArrayList to a HastSet.
         HashSet<String> hset = new HashSet<String>(List);
 
-        // display HastSet
+        // displaying the HastSet with only Unique values
         System.out.println("ArrayList Unique Values is : "
                 + hset);
     }
